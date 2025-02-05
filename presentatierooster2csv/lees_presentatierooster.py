@@ -1,10 +1,13 @@
 import pandas as pd
 import datetime
 
+# PAS DEZE CONSTANTEN AAN #################
 PERIODE = 8
 VAK = 'wiskunde A'
 NIVEAU = 'vwo'
 CURSUSREEKS = 'examencursus'
+###########################################
+
 
 class Teacher:
     def __init__(self, name, subject, job, email, phone):
