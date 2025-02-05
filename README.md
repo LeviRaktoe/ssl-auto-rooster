@@ -14,7 +14,7 @@ In de map "input" moeten de volgende dingen staan:
 Hierna kan je build_html_planning.py runnen.
 
 ## presentatierooster2csv
-In deze map zit een script dat automatisch je presentatierooster van Kelly inleest en verandert in een (niet compleet ingevuld) csv bestand dat build_html_planning.py kan lezen. Om dit te gebruiken plaats je een presentatierooster.xlsx bestand in dezelfde map. Verander de constanten bovenin het script naar wens.
+In deze map zit een script dat automatisch je presentatierooster inleest en verandert in een (niet compleet ingevuld) csv bestand dat build_html_planning.py kan lezen. Om dit te gebruiken plaats je een presentatierooster.xlsx bestand in dezelfde map. Verander de constanten bovenin het script naar wens.
 
 ## timeline
 In deze map zit oude code voor het genereren van de timeline. Wordt niet gebruikt
