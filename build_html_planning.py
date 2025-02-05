@@ -179,7 +179,7 @@ def main():
     else:
         raise Exception('Alleen 2 of 3 daags opgavenlijst')
 
-    with open('input/template.html') as f:
+    with open('input/planning_leeg.html') as f:
         template_soup = bs4.BeautifulSoup(f.read(), 'html.parser')
 
     for i, day in enumerate(days, start=1):
